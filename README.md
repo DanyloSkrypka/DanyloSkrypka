@@ -12,6 +12,7 @@ I work with **Python, n8n and AI models (Claude)**, and I test every bot on real
 | [n8n-ai-support-agent](https://github.com/DanyloSkrypka/n8n-ai-support-agent) | AI support agent in n8n: sorts messages (question / order / complaint / spam), replies only from your FAQ, logs tickets, sends complaints to a manager | n8n, JavaScript, Claude API |
 | [instagram-dm-autoreply-bot](https://github.com/DanyloSkrypka/instagram-dm-autoreply-bot) | Instagram DM bot for a small shop: answers FAQ, sends the product link when someone comments "PRICE", hands angry customers to a human, saves orders to CSV | Python, FastAPI, Instagram Graph API |
 | [german-letter-explainer-bot](https://github.com/DanyloSkrypka/german-letter-explainer-bot) | Telegram bot: send a photo of a German official letter, get a clear answer in Russian or Ukrainian with the deadline, the amount and a reply draft in German | Python, aiogram 3, Tesseract OCR |
+| [whatsapp-ai-agent-rag](https://github.com/DanyloSkrypka/whatsapp-ai-agent-rag) | WhatsApp AI agent that answers clients from the company's FAQ, price list and PDF terms with the source, hands over to a manager instead of guessing (0 made-up answers in tests), qualifies leads (name, task, budget), EN / DE / RU | Python, FastAPI, local RAG, Claude API |
 
 Each project has a short demo video, tests and a "run locally" guide. No real accounts are needed to try them.
 
